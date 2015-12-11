@@ -59,15 +59,12 @@ class Summarizer():
         frequency_scores = self.frequency_scores(article[1])
 
         for i, s in enumerate(sentences):
-            headline_score = self.headline_score(headline, s)
-            length_score = self.length_score(self.split_into_words(s))
-            position_score = self.position_score(float(i+1), len(sentences))
-            frequency_score = frequency_scores[i] * 2
-
-            # Weighted score of 4 features per sentence:
-            overall_score = (headline_score*1.5 + frequency_score * 2 +
-                             length_score*1.0 + position_score*1.0) / 4.0
-            self._scores[s] = overall_score
+            headline_score = self.headline_score(headline, s) * 1.5
+            length_score = self.length_score(self.split_into_words(s)) * 1.0
+            position_score = self.position_score(float(i+1), len(sentences)) * 1.0
+            frequency_score = frequency_scores[i] * 4
+            score = (headline_score + frequency_score + length_score + position_score) / 4.0
+            self._scores[s] = score
 
 
     def generate_summaries(self):
