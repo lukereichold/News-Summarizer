@@ -1,0 +1,34 @@
+VW Says Emissions Cheating Was Not a One-Time Error
+http://www.nytimes.com/2015/12/11/business/international/vw-emissions-scandal.html?partner=rss&emc=rss
+
+Volkswagen said on Thursday that its emissions cheating scandal began in 2005 with a decision to heavily promote diesel engines in the United States and a realization that those engines could not meet clean air standards.
+
+What followed was a textbook example of what happens when ambition combines with weak internal controls and ethical standards, the company acknowledged as it presented a preliminary report of its investigation into the origins of the scandal.
+
+Some employees, the company found, chose to cheat on emissions tests rather than to curtail Volkswagen’s American campaign.
+
+“There was a tolerance for breaking the rules,” Hans-Dieter Pötsch, the chairman of Volkswagen’s supervisory board, said here on Thursday, at his first lengthy news conference since the emissions cheating came to light in September. “That is the hardest thing to accept,” he added.
+
+At the news conference, which also included Matthias Müller, the Volkswagen chief executive, the company gave its most detailed explanation yet of what had led to the scandal. Mr. Pötsch said it was “the biggest test” in Volkswagen’s history.
+
+The company is in talks with United States regulators about how to make about 500,000 cars there comply with clean air rules. Mr. Müller said that he was optimistic that a technical solution would be announced in the coming days.
+
+The cheating began a decade ago, when Volkswagen was developing a new diesel engine and opted for a less expensive pollution control technology. Later, the German automaker phased in a newer technology that used the chemical urea to neutralize nitrogen oxide emissions, which are a harmful pollutant.
+
+Cars with the newer chemical technology should have been able to pass emissions tests legally. But apparently, Volkswagen wanted to minimize the frequency with which customers or dealers would need to refill the tank that holds the chemical. And so Volkswagen programmed the cars to dial back emission controls — except when tests were underway — in order to minimize consumption of the chemical.
+
+“It proves not to have been a one-time error, but rather a chain of errors that were allowed to happen,” Mr. Pötsch said.
+
+While Volkswagen has been able to resolve the emissions problem in Europe at relatively low cost, the United States has stricter limits on nitrogen oxide emissions, which have been linked to lung ailments.
+
+Hans-Dieter Pötsch, left, the chairman of Volkswagen’s supervisory board, and Matthias Müller, the carmaker's chief executive, before a news conference in Wolfsburg, Germany, on Thursday. Compounding the problem is that most of the cars sold in the United States are equipped with older technology that does not use urea to treat the emissions and will therefore be more difficult to bring up to standard. The company is likely to have to install new hardware in those vehicles, which include models such as the Jetta, Golf and Beetle sold before the 2015 model year.
+
+For example, the people who developed parts were the same ones who approved them for production. At other companies, it is standard practice for one team to develop components and another to check them for quality. Volkswagen said it would correct its procedures.
+
+“We have to understand how this came about,” Mr. Pötsch said. “That is the only way we can prevent it from happening again.”
+
+Volkswagen also said that nine people had been suspended as a result of the scandal, one more than had previously been disclosed. It said it could not disclose any names until the evidence was “watertight.”
+
+The company’s preliminary report comes nearly three months after the Environmental Protection Agency in the United States said that Volkswagen had programmed diesel cars to detect when they were undergoing emissions tests, and to crank up pollution controls. At other times, the cars emitted up to 40 times the allowed amount of nitrogen oxides.
+
+Volkswagen subsequently admitted that 11 million cars worldwide were equipped with the illegal software.
